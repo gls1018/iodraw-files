@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="jJaH_CEZCqra5XIdDN5_">
+    <mxGraphModel dx="1648" dy="969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-1" value="二进制数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="341" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-2" value="数字信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="471" y="625" as="sourcePoint" />
+            <mxPoint x="571" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="655" as="sourcePoint" />
+            <mxPoint x="471" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-5" value="编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="491" y="595" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-6" value="解码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="491" y="655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-8" value="模拟信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="104" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233" y="630" as="sourcePoint" />
+            <mxPoint x="333" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333" y="660" as="sourcePoint" />
+            <mxPoint x="233" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-11" value="解调" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="253" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fMmqGlqnSKHZV1hM5mh3-12" value="调制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="253" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
