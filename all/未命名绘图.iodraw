@@ -88,7 +88,7 @@
         <mxCell id="YB9RytvnbjB7Mch0refJ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="571" y="828" width="36" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="YB9RytvnbjB7Mch0refJ-25" value="a1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="YB9RytvnbjB7Mch0refJ-25" value="&lt;b&gt;a1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="828" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YB9RytvnbjB7Mch0refJ-26" value="&lt;b&gt;LHead&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -99,6 +99,9 @@
             <mxPoint x="68" y="842.5" as="sourcePoint" />
             <mxPoint x="98" y="842.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YB9RytvnbjB7Mch0refJ-28" value="&lt;b&gt;LHead&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="21" y="837" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
