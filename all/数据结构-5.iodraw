@@ -142,6 +142,9 @@
         <mxCell id="Z2MEMO23WRBvE6ZnPe6V-3" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="1021" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Z2MEMO23WRBvE6ZnPe6V-5" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1052" width="160" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
