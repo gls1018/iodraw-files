@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Caj53aYthzALX_1_lTC2-3" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="316" y="790" width="24" height="24" as="geometry" />
+          <mxGeometry x="313" y="790" width="24" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Caj53aYthzALX_1_lTC2-4" value="DEFGHI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="385" y="777.5" width="55" height="55" as="geometry" />
@@ -69,12 +69,12 @@
         </mxCell>
         <mxCell id="Caj53aYthzALX_1_lTC2-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="326" y="820" as="sourcePoint" />
-            <mxPoint x="340" y="844" as="targetPoint" />
+            <mxPoint x="328" y="814" as="sourcePoint" />
+            <mxPoint x="342" y="838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Caj53aYthzALX_1_lTC2-7" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="334" y="843" width="24" height="24" as="geometry" />
+          <mxGeometry x="334" y="838" width="24" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
